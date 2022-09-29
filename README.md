@@ -1,7 +1,7 @@
 # Carrinho-MyFood
 Este projeto foi formulado em cima da Sacola do Ifood, que permite administrar os pedidos
 ------------
-Pode ser testado tanto no Postman quanto no Swagger
+Pode ser testado tanto no Postman quanto no Swagger.
 Para acessar pelo Swagger:
 http://localhost:8080/swagger-ui/ 
 
